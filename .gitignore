@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+wandb/
+experiment_logs/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
